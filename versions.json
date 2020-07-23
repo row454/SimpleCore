@@ -1,0 +1,16 @@
+{
+  "homepage": "github.com/row454/SimpleCore",
+  "1.15.2": {
+    "1.0.0": "Released!", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    ...
+  },
+  ...
+  "promos": {
+    "1.15.2-latest": "1.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.15.2-recommended": "1.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
